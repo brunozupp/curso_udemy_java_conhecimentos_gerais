@@ -19,6 +19,7 @@ import section14.metodosabstratosfixacao.MetodoAbstratoFixacao;
 import section14.polimorfismo.PolimorfismoExecutar;
 import section14.polimorfismofixacao.PolimorfismoFixacaoExecutar;
 import section15.ExcecaoExecutar;
+import section15.ExcecaoFixacaoExecutar;
 import section6.EstruturaFor;
 import section6.EstruturaWhile;
 import section7.Funcoes;
@@ -69,6 +70,7 @@ public class Main {
         //ClasseAbstrataExecutar.executar();
         //MetodoAbstratoExecutar.executar();
         //MetodoAbstratoFixacao.executar();
-        ExcecaoExecutar.executar();
+        //ExcecaoExecutar.executar();
+        ExcecaoFixacaoExecutar.executar();
     }
 }
