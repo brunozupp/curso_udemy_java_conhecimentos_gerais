@@ -18,6 +18,7 @@ import section14.metodosabstratos.MetodoAbstratoExecutar;
 import section14.metodosabstratosfixacao.MetodoAbstratoFixacao;
 import section14.polimorfismo.PolimorfismoExecutar;
 import section14.polimorfismofixacao.PolimorfismoFixacaoExecutar;
+import section15.ExcecaoExecutar;
 import section6.EstruturaFor;
 import section6.EstruturaWhile;
 import section7.Funcoes;
@@ -32,7 +33,7 @@ import section9.sobrecarga.ProductExecutar;
 import java.text.ParseException;
 
 public class Main {
-    public static void main(String[] args) throws ParseException {
+    public static void main(String[] args) {
 
         //SaidaDeDados.executar();
         //SobreCasting.executar();
@@ -67,6 +68,7 @@ public class Main {
         //PolimorfismoFixacaoExecutar.executar();
         //ClasseAbstrataExecutar.executar();
         //MetodoAbstratoExecutar.executar();
-        MetodoAbstratoFixacao.executar();
+        //MetodoAbstratoFixacao.executar();
+        ExcecaoExecutar.executar();
     }
 }
