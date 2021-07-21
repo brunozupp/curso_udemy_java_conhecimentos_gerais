@@ -20,10 +20,7 @@ import section14.polimorfismo.PolimorfismoExecutar;
 import section14.polimorfismofixacao.PolimorfismoFixacaoExecutar;
 import section15.ExcecaoExecutar;
 import section15.ExcecaoFixacaoExecutar;
-import section17.FileReaderAndBufferedReaderExecutar;
-import section17.FileWriterAndBufferedWriterExecutar;
-import section17.LerArquivoComScannerExecutar;
-import section17.ManipularPastaComFileExecutar;
+import section17.*;
 import section6.EstruturaFor;
 import section6.EstruturaWhile;
 import section7.Funcoes;
@@ -79,6 +76,7 @@ public class Main {
         //LerArquivoComScannerExecutar.executar();
         //FileReaderAndBufferedReaderExecutar.executar();
         //FileWriterAndBufferedWriterExecutar.executar();
-        ManipularPastaComFileExecutar.executar();
+        //ManipularPastaComFileExecutar.executar();
+        InformacoesFileExecutar.executar();
     }
 }
