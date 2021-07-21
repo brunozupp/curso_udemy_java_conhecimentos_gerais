@@ -23,6 +23,7 @@ import section15.ExcecaoFixacaoExecutar;
 import section17.FileReaderAndBufferedReaderExecutar;
 import section17.FileWriterAndBufferedWriterExecutar;
 import section17.LerArquivoComScannerExecutar;
+import section17.ManipularPastaComFileExecutar;
 import section6.EstruturaFor;
 import section6.EstruturaWhile;
 import section7.Funcoes;
@@ -77,6 +78,7 @@ public class Main {
         //ExcecaoFixacaoExecutar.executar();
         //LerArquivoComScannerExecutar.executar();
         //FileReaderAndBufferedReaderExecutar.executar();
-        FileWriterAndBufferedWriterExecutar.executar();
+        //FileWriterAndBufferedWriterExecutar.executar();
+        ManipularPastaComFileExecutar.executar();
     }
 }
