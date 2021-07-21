@@ -9,7 +9,7 @@ public class FileReaderAndBufferedReaderExecutar {
 
     public static void executar() {
 
-        String path = "C:\\Users\\bruni\\Desktop\\Cursos\\ UDEMY\\Java\\primeiro_programa\\src\\section17\\in.txt";
+        String path = "C:\\Users\\bruni\\Desktop\\Cursos\\UDEMY\\Java\\primeiro_programa\\src\\section17\\in.txt";
 
         try(
                 FileReader fr = new FileReader(path);
