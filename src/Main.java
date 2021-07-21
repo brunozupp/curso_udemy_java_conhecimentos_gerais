@@ -21,6 +21,7 @@ import section14.polimorfismofixacao.PolimorfismoFixacaoExecutar;
 import section15.ExcecaoExecutar;
 import section15.ExcecaoFixacaoExecutar;
 import section17.*;
+import section17.exerciciofixacao.ArquivosExercicioFixacaoExecutar;
 import section6.EstruturaFor;
 import section6.EstruturaWhile;
 import section7.Funcoes;
@@ -77,6 +78,7 @@ public class Main {
         //FileReaderAndBufferedReaderExecutar.executar();
         //FileWriterAndBufferedWriterExecutar.executar();
         //ManipularPastaComFileExecutar.executar();
-        InformacoesFileExecutar.executar();
+        //InformacoesFileExecutar.executar();
+        ArquivosExercicioFixacaoExecutar.executar();
     }
 }
