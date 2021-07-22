@@ -22,6 +22,8 @@ import section15.ExcecaoExecutar;
 import section15.ExcecaoFixacaoExecutar;
 import section17.*;
 import section17.exerciciofixacao.ArquivosExercicioFixacaoExecutar;
+import section18.exerciciofixacaointerface.ExercicioFixacaoInterfaceExecutar;
+import section18.primeiroexemplo.InterfacePrimeiroExemploExecutar;
 import section6.EstruturaFor;
 import section6.EstruturaWhile;
 import section7.Funcoes;
@@ -36,7 +38,7 @@ import section9.sobrecarga.ProductExecutar;
 import java.text.ParseException;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ParseException {
 
         //SaidaDeDados.executar();
         //SobreCasting.executar();
@@ -79,6 +81,8 @@ public class Main {
         //FileWriterAndBufferedWriterExecutar.executar();
         //ManipularPastaComFileExecutar.executar();
         //InformacoesFileExecutar.executar();
-        ArquivosExercicioFixacaoExecutar.executar();
+        //ArquivosExercicioFixacaoExecutar.executar();
+        //InterfacePrimeiroExemploExecutar.executar();
+        ExercicioFixacaoInterfaceExecutar.executar();
     }
 }
