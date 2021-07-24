@@ -22,9 +22,12 @@ import section15.ExcecaoExecutar;
 import section15.ExcecaoFixacaoExecutar;
 import section17.*;
 import section17.exerciciofixacao.ArquivosExercicioFixacaoExecutar;
+import section18.defaultmethods.DefaultMethodsExecutar;
 import section18.exerciciofixacaointerface.ExercicioFixacaoInterfaceExecutar;
 import section18.herdarinterface.HerdarInterfaceExecutar;
+import section18.interfacecomparable.InterfaceComparableExecutar;
 import section18.primeiroexemplo.InterfacePrimeiroExemploExecutar;
+import section18.problemaherancamultipla.ProblemaHerancamultiplaExecutar;
 import section6.EstruturaFor;
 import section6.EstruturaWhile;
 import section7.Funcoes;
@@ -85,6 +88,9 @@ public class Main {
         //ArquivosExercicioFixacaoExecutar.executar();
         //InterfacePrimeiroExemploExecutar.executar();
         //ExercicioFixacaoInterfaceExecutar.executar();
-        HerdarInterfaceExecutar.executar();
+        //HerdarInterfaceExecutar.executar();
+        //ProblemaHerancamultiplaExecutar.executar();
+        //InterfaceComparableExecutar.executar();
+        DefaultMethodsExecutar.executar();
     }
 }
