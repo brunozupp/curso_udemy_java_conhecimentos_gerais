@@ -40,6 +40,7 @@ import section19.exemplotipocuringa.ExemploTipoCuringaExecutar;
 import section19.exerciciofixacaoset.ExercicioFixacaoSetExecutar;
 import section19.exercicioset.ExercicioSetExecutar;
 import section19.primeiroexemplogenerics.PrimeiroExemploGenericsExecutar;
+import section20.exemplocomparator.ExemploComparatorExecutar;
 import section6.EstruturaFor;
 import section6.EstruturaWhile;
 import section7.Funcoes;
@@ -115,6 +116,7 @@ public class Main {
         //ExercicioSetExecutar.executar();
         //ExercicioFixacaoSetExecutar.executar();
         //ExemploMapExecutar.executar();
-        DesafioMapExecutar.executar();
+        //DesafioMapExecutar.executar();
+        ExemploComparatorExecutar.executar();
     }
 }

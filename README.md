@@ -67,3 +67,7 @@ Section 19
 - Generics
 - Set
 - Map
+
+Section 20
+- Programação funcional
+- Expressões lambda
