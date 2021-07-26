@@ -41,6 +41,13 @@ import section19.exerciciofixacaoset.ExercicioFixacaoSetExecutar;
 import section19.exercicioset.ExercicioSetExecutar;
 import section19.primeiroexemplogenerics.PrimeiroExemploGenericsExecutar;
 import section20.exemplocomparator.ExemploComparatorExecutar;
+import section20.exemploconsumer.ExemploConsumerExecutar;
+import section20.exemplofunction.ExemploFunctionExecutar;
+import section20.exemplopredicate.ExemploPredicateExecutar;
+import section20.exemplostream.ExemploStreamExecutar;
+import section20.exerciciostream.ExercicioStreamExecutar;
+import section20.exerciciostreamfixacao.ExercicioStreamFixacaoExecutar;
+import section20.funcaocomoargumento.FuncaoComoArgumentoExecutar;
 import section6.EstruturaFor;
 import section6.EstruturaWhile;
 import section7.Funcoes;
@@ -117,6 +124,13 @@ public class Main {
         //ExercicioFixacaoSetExecutar.executar();
         //ExemploMapExecutar.executar();
         //DesafioMapExecutar.executar();
-        ExemploComparatorExecutar.executar();
+        //ExemploComparatorExecutar.executar();
+        //ExemploPredicateExecutar.executar();
+        //ExemploConsumerExecutar.executar();
+        //ExemploFunctionExecutar.executar();
+        //FuncaoComoArgumentoExecutar.executar();
+        //ExemploStreamExecutar.executar();
+        //ExercicioStreamExecutar.executar();
+        ExercicioStreamFixacaoExecutar.executar();
     }
 }
