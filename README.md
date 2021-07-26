@@ -53,3 +53,17 @@ Section 15
 
 Section 17
 - Trabalhando com arquivos
+
+Section 18
+- Interfaces
+- Inversão de controle
+- Injeção de dependência
+- Herdar vs Cumprir Contrato
+- Herança múltipla
+- Interface Comparable
+- Default Methods
+
+Section 19
+- Generics
+- Set
+- Map

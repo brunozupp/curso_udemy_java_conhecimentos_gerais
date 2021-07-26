@@ -28,6 +28,18 @@ import section18.herdarinterface.HerdarInterfaceExecutar;
 import section18.interfacecomparable.InterfaceComparableExecutar;
 import section18.primeiroexemplo.InterfacePrimeiroExemploExecutar;
 import section18.problemaherancamultipla.ProblemaHerancamultiplaExecutar;
+import section19.desafiomap.DesafioMapExecutar;
+import section19.exemplocuringadelimitado.ExemploCuringDelimitadoExecutar;
+import section19.exemplogenericsdelimitados.ExemploGenericsDelimitadosExecutar;
+import section19.exemplohashcodeequals.ExemploHashCodeEqualsExecutar;
+import section19.exemplomap.ExemploMapExecutar;
+import section19.exemploset.ExemploIgualdadeTreeSetExecutar;
+import section19.exemploset.ExemploSetExecutar;
+import section19.exemploset.ExemploSetIgualdadeExecutar;
+import section19.exemplotipocuringa.ExemploTipoCuringaExecutar;
+import section19.exerciciofixacaoset.ExercicioFixacaoSetExecutar;
+import section19.exercicioset.ExercicioSetExecutar;
+import section19.primeiroexemplogenerics.PrimeiroExemploGenericsExecutar;
 import section6.EstruturaFor;
 import section6.EstruturaWhile;
 import section7.Funcoes;
@@ -91,6 +103,18 @@ public class Main {
         //HerdarInterfaceExecutar.executar();
         //ProblemaHerancamultiplaExecutar.executar();
         //InterfaceComparableExecutar.executar();
-        DefaultMethodsExecutar.executar();
+        //DefaultMethodsExecutar.executar();
+        //PrimeiroExemploGenericsExecutar.executar();
+        //ExemploGenericsDelimitadosExecutar.executar();
+        //ExemploTipoCuringaExecutar.executar();
+        //ExemploCuringDelimitadoExecutar.executar();
+        //ExemploHashCodeEqualsExecutar.executar();
+        //ExemploSetExecutar.executar();
+        //ExemploSetIgualdadeExecutar.executar();
+        //ExemploIgualdadeTreeSetExecutar.executar();
+        //ExercicioSetExecutar.executar();
+        //ExercicioFixacaoSetExecutar.executar();
+        //ExemploMapExecutar.executar();
+        DesafioMapExecutar.executar();
     }
 }
