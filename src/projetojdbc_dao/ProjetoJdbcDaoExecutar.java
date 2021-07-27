@@ -43,5 +43,9 @@ public class ProjetoJdbcDaoExecutar {
 //        seller.setName("Marta editada");
 //        sellerDao.update(seller);
 //        System.out.println("Update completed");
+
+//        System.out.println("=== TESTE 6: seller delete ===");
+//        sellerDao.deleteById(7);
+//        System.out.println("Delete completed");
     }
 }
