@@ -37,5 +37,11 @@ public class ProjetoJdbcDaoExecutar {
 //        Seller newSeller = new Seller(null, "Greg", "greg@gmail.com", new Date(), 4000.0, department);
 //        sellerDao.insert(newSeller);
 //        System.out.println("New seller id = " + newSeller.getId());
+
+//        System.out.println("=== TESTE 5: seller update ===");
+//        Seller seller = sellerDao.findById(1);
+//        seller.setName("Marta editada");
+//        sellerDao.update(seller);
+//        System.out.println("Update completed");
     }
 }
