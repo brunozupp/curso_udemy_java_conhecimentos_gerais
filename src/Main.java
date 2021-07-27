@@ -1,3 +1,4 @@
+import projetojdbc_dao.ProjetoJdbcDaoExecutar;
 import section10.exerciciolista.ExercicioListaExecutar;
 import section10.exerciciolistafixacao.ExercicioListaFixacaoExecutar;
 import section10.exerciciomatriz.ExercicioMatrizExecutar;
@@ -131,6 +132,7 @@ public class Main {
         //FuncaoComoArgumentoExecutar.executar();
         //ExemploStreamExecutar.executar();
         //ExercicioStreamExecutar.executar();
-        ExercicioStreamFixacaoExecutar.executar();
+        //ExercicioStreamFixacaoExecutar.executar();
+        ProjetoJdbcDaoExecutar.executar();
     }
 }
